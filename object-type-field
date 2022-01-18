@@ -1,7 +1,8 @@
 ---
 name: object-type-guide
 title: Object {}
-link: What is an object ?
+linkLabel: What is an object ?
+link: #
 ---
 
 -   Clic **Add property** to send an object with a fixed number of properties
