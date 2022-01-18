@@ -1,0 +1,9 @@
+---
+name: object-type-guide
+title: Object {}
+link: What is an object ?
+---
+
+-   Clic **Add property** to send an object with a fixed number of properties
+
+-   Clic **Bind object** to use a formula to generate this object
