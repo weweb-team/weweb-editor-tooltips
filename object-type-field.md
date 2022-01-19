@@ -1,10 +1,10 @@
 ---
-name: object-type-guide
-title: Object {}
-linkLabel: What is an object ?
+name: list-type-guide
+title: List
+linkLabel: What is a list ?
 link: #
 ---
 
--   Clic **Add property** to send an object with a fixed number of properties
+-   Clic **Add item** to send a list with a fixed number of items
 
--   Clic **Bind object** to use a formula to generate this object
+-   Clic **Bind list** to use a formula to generate this list
