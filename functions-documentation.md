@@ -3,10 +3,10 @@
 Return `value1` if `condition` is true, otherwise return `value2`<br/><br/>
 `if(condition, value1, value2)`
 
-### ifEmpty
+### ifempty
 
 Return `value1` if not empty, otherwise return `value2` <br/><br/>
-`ifEmpty(value1, value2)`
+`ifempty(value1, value2)`
 
 ### not
 
@@ -266,3 +266,8 @@ Return -1 if not found<br/><br/>
 
 Return the number of characters in `text`<br/><br/>
 `textLength(text)`
+
+### subText
+
+Return a subtext from `text` starting at `startIndex` to the end or to `endIndex` if provided<br/><br/>
+`subText(text, startIndex, [endIndex])`
