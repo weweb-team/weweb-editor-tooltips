@@ -275,5 +275,4 @@ Return a subtext from `text` starting at `startIndex` to the end or to `endIndex
 ### formatDate
 
 Returns a date in the favorite format or requested format. For example, format `DD.MM.YYYY HH:mm`<br/><br/>
-`formatDate(date)` or <br/>
-`formatDate(date, format)`
+`formatDate(date)` or `formatDate(date, format)`
