@@ -280,6 +280,6 @@ Returns a date in the favorite format or requested format. For example, format `
 ### isLoopFinished
 
 Returns true if the provided `loop` is finished.<br/>
-Should moslty be used in pass through conditions to get out of a loop action.<br/>
+Should moslty be used in pass through conditions to get out of a loop action.<br/><br/>
 `isLoopFinished(loop)`
 
