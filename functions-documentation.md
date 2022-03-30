@@ -234,13 +234,13 @@ Return a boolean (true or false) based on `value`<br/><br/>
 
 ### lookup
 
-Return the first object in `array` in wich `key` is equal to `value`<br/>
+Return the first object in `array` in which `key` is equal to `value`<br/>
 Default value for `key` is 'id'<br/><br/>
 `lookup(value, array, [key])`
 
 ### lookupArray
 
-Return all objects in `array` in wich `key` value is present in `arrayValues`<br/>
+Return all objects in `array` in which `key` value is present in `arrayValues`<br/>
 Default value for `key` is 'id'<br/><br/>
 `lookupArray(arrayValues, array, [key])`
 
@@ -258,7 +258,7 @@ Return -1 if not found<br/><br/>
 
 ### findIndexByKey
 
-Return the index of the first object in wich `key` value is equal to `value` in `array`<br/>
+Return the index of the first object in which `key` value is equal to `value` in `array`<br/>
 Return -1 if not found<br/><br/>
 `findIndexByKey(array, key, value)`
 
