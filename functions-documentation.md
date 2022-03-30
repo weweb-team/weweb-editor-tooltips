@@ -276,3 +276,10 @@ Return a subtext from `text` starting at `startIndex` to the end or to `endIndex
 
 Returns a date in the favorite format or requested format. For example, format `DD.MM.YYYY HH:mm`<br/><br/>
 `formatDate(date)` or `formatDate(date, format)`
+
+### isLoopFinished
+
+Returns true if the provided `loop` is finished.<br/>
+Should moslty be used in pass through conditions to get out of a loop action.<br/>
+`isLoopFinished(loop)`
+
