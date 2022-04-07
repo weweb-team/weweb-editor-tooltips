@@ -1,1 +1,1 @@
-A role has one or more permissions (read, write, edit, admin). It can be assigned to users. A user that is assigned a role receives all of the permissions of that role. A user can have multiple roles.
+A user role defines what a user with that role can and cannot see in the app. For example, limit access to a page to Premium roles or hide submission form from unauthorized user.
