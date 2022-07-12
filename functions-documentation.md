@@ -278,3 +278,7 @@ Returns true if the provided `loop` is finished.<br/>
 Should moslty be used in pass through conditions to get out of a loop action.<br/><br/>
 `isLoopFinished(loop)`
 
+### flat
+
+Returns an array with all sub-array elements concatenated into it.<br/><br/>
+`flat(array)`
