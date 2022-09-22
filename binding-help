@@ -1,4 +1,9 @@
-### padding
+### width
 
 You need to set a width value <br/> 
-[MDN Doc link](https://developer.mozilla.org/fr/docs/Web/CSS/padding)
+[MDN Doc link](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
+
+### height
+
+You need to set a height value <br/> 
+[MDN Doc link](https://developer.mozilla.org/en-US/docs/Web/CSS/height)
