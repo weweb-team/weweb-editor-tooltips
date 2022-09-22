@@ -1,7 +1,105 @@
+### align
+
+You need to set a align value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container" target="_blank">[MDN Align Doc]</a>
+
+### zIndex
+
+You need to set a z-index value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/z-index" target="_blank">[MDN z-index Doc]</a>
+
+### overflow
+
+You need to set a overflow value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/overflow" target="_blank">[MDN overflow Doc]</a>
+
+### position
+
+You need to set a position value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/position" target="_blank">[MDN position Doc]</a>
+
+### top
+
+You need to set a top value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/top" target="_blank">[MDN top Doc]</a>
+
+### bottom
+
+You need to set a bottom value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/bottom" target="_blank">[MDN bottom Doc]</a>
+
+### left
+
+You need to set a left value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/left" target="_blank">[MDN left Doc]</a>
+
+### right
+
+You need to set a right value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/right" target="_blank">[MDN right Doc]</a>
+
 ### width
 
-You need to set a width value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/width" target="_blank">[MDN Doc link]</a>
+You need to set a width value: `150px`, `75%`, `20em`, `auto` <br/>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/width" target="_blank">[MDN Width Doc]</a>
+
+### minWidth
+
+You need to set a min-width value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/min-width" target="_blank">[MDN min-width Doc]</a>
+
+### maxWidth
+
+You need to set a max-width value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/max-width" target="_blank">[MDN max-width Doc]</a>
 
 ### height
 
-You need to set a height value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/height" target="_blank">[MDN Doc link]</a>
+You need to set a height value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/height" target="_blank">[MDN height Doc]</a>
+
+### minHeight
+
+You need to set a min-height value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/min-height" target="_blank">[MDN min-height Doc]</a>
+
+### maxHeight
+
+You need to set a max-height value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/max-height" target="_blank">[MDN max-height Doc]</a>
+
+### border
+
+You need to set a border value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border" target="_blank">[MDN border Doc]</a>
+
+### borderTop
+
+You need to set a border-top value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-top" target="_blank">[MDN border-top Doc]</a>
+
+### borderBottom
+
+You need to set a border-bottom value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom" target="_blank">[MDN border-bottom Doc]</a>
+
+### borderLeft
+
+You need to set a border-left value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-left" target="_blank">[MDN border-left Doc]</a>
+
+### borderRight
+
+You need to set a border-right value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-right" target="_blank">[MDN border-right Doc]</a>
+
+### borderRadius
+
+You need to set a border-radius value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius" target="_blank">[MDN border-radius Doc]</a>
+
+### cursor
+
+You need to set a cursor value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/cursor" target="_blank">[MDN cursor Doc]</a>
+
+### display
+
+You need to set a display value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/display" target="_blank">[MDN display Doc]</a>
+
+### transform
+
+You need to set a transform value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transform" target="_blank">[MDN transform Doc]</a>
+
+### perspective
+
+You need to set a perspective value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/perspective" target="_blank">[MDN perspective Doc]</a>
+
+### transition
+
+You need to set a transition value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transition" target="_blank">[MDN transition Doc]</a>
+
+### flex
+
+You need to set a flex value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex" target="_blank">[MDN flex Doc]</a>
