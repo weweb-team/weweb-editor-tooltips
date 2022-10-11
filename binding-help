@@ -2,7 +2,7 @@
 
 You need to set a string representing a **align** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container" target="_blank">[MDN Align Doc]</a>
 
-### zIndex
+### z-index
 
 You need to set a string representing a **z-index** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/z-index" target="_blank">[MDN z-index Doc]</a>
 
@@ -36,7 +36,7 @@ You need to set a string representing a **width** value: `"150px"`, `"75%"`, `"2
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/width" target="_blank">[MDN width Doc]</a>
 
-### minWidth
+### min-width
 
 You need to set a string representing a **min-width** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/min-width" target="_blank">[MDN min-width Doc]</a>
 
@@ -48,11 +48,11 @@ You need to set a string representing a **max-width** value <a href="https://dev
 
 You need to set a string representing a **height** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/height" target="_blank">[MDN height Doc]</a>
 
-### minHeight
+### min-height
 
 You need to set a string representing a **min-height** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/min-height" target="_blank">[MDN min-height Doc]</a>
 
-### maxHeight
+### max-height
 
 You need to set a string representing a **max-height** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/max-height" target="_blank">[MDN max-height Doc]</a>
 
@@ -60,23 +60,23 @@ You need to set a string representing a **max-height** value <a href="https://de
 
 You need to set a string representing a **border value** <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border" target="_blank">[MDN border Doc]</a>
 
-### borderTop
+### border-top
 
 You need to set a string representing a **border-top** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-top" target="_blank">[MDN border-top Doc]</a>
 
-### borderBottom
+### border-bottom
 
 You need to set a string representing a **border-bottom** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom" target="_blank">[MDN border-bottom Doc]</a>
 
-### borderLeft
+### border-left
 
 You need to set a string representing a **border-left** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-left" target="_blank">[MDN border-left Doc]</a>
 
-### borderRight
+### border-right
 
 You need to set a string representing a **border-right** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-right" target="_blank">[MDN border-right Doc]</a>
 
-### borderRadius
+### border-radius
 
 You need to set a string representing a **border-radius** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius" target="_blank">[MDN border-radius Doc]</a>
 
