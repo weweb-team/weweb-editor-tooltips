@@ -40,7 +40,7 @@ You need to set a string representing a **width** value: `"150px"`, `"75%"`, `"2
 
 You need to set a string representing a **min-width** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/min-width" target="_blank">[MDN min-width Doc]</a>
 
-### maxWidth
+### max-width
 
 You need to set a string representing a **max-width** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/max-width" target="_blank">[MDN max-width Doc]</a>
 
