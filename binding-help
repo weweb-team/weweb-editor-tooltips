@@ -86,7 +86,7 @@ You need to set a string representing a **cursor** value <a href="https://develo
 
 ### display
 
-You need to set a string representing a **display** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/display" target="_blank">[MDN display Doc]</a>
+You need to set a boolean or string representing a **display** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/display" target="_blank">[MDN display Doc]</a>
 
 ### transform
 
