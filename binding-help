@@ -48,6 +48,14 @@ You need to set a string representing a **max-width** value <a href="https://dev
 
 You need to set a string representing a **height** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/height" target="_blank">[MDN height Doc]</a>
 
+### margin
+
+You need to set a string representing a **margin** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/margin" target="_blank">[MDN margin Doc]</a>
+
+### padding
+
+You need to set a string representing a **padding** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/padding" target="_blank">[MDN padding Doc]</a>
+
 ### min-height
 
 You need to set a string representing a **min-height** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/min-height" target="_blank">[MDN min-height Doc]</a>
