@@ -1,113 +1,133 @@
 ### align
 
-You need to set a string representing a **align** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container" target="_blank">[MDN Align Doc]</a>
+You need to set a string representing a **align** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container" target="_blank">[MDN Doc]</a>
 
 ### z-index
 
-You need to set a string representing a **z-index** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/z-index" target="_blank">[MDN z-index Doc]</a>
+You need to set a string representing a **z-index** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/z-index" target="_blank">[MDN Doc]</a>
 
 ### overflow
 
-You need to set a string representing a **overflow** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/overflow" target="_blank">[MDN overflow Doc]</a>
+You need to set a string representing a **overflow** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/overflow" target="_blank">[MDN Doc]</a>
 
 ### position
 
-You need to set a string representing a **position** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/position" target="_blank">[MDN position Doc]</a>
+You need to set a string representing a **position** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/position" target="_blank">[MDN Doc]</a>
 
 ### top
 
-You need to set a string representing a **top** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/top" target="_blank">[MDN top Doc]</a>
+You need to set a string representing a **top** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/top" target="_blank">[MDN Doc]</a>
 
 ### bottom
 
-You need to set a string representing a **bottom** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/bottom" target="_blank">[MDN bottom Doc]</a>
+You need to set a string representing a **bottom** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/bottom" target="_blank">[MDN Doc]</a>
 
 ### left
 
-You need to set a string representing a **left** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/left" target="_blank">[MDN left Doc]</a>
+You need to set a string representing a **left** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/left" target="_blank">[MDN Doc]</a>
 
 ### right
 
-You need to set a string representing a **right** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/right" target="_blank">[MDN right Doc]</a>
+You need to set a string representing a **right** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/right" target="_blank">[MDN Doc]</a>
 
 ### width
 
 You need to set a string representing a **width** value: `"150px"`, `"75%"`, `"20em"`, `"auto"` <br/>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/width" target="_blank">[MDN width Doc]</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/width" target="_blank">[MDN Doc]</a>
 
 ### min-width
 
-You need to set a string representing a **min-width** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/min-width" target="_blank">[MDN min-width Doc]</a>
+You need to set a string representing a **min-width** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/min-width" target="_blank">[MDN Doc]</a>
 
 ### max-width
 
-You need to set a string representing a **max-width** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/max-width" target="_blank">[MDN max-width Doc]</a>
+You need to set a string representing a **max-width** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/max-width" target="_blank">[MDN Doc]</a>
 
 ### height
 
-You need to set a string representing a **height** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/height" target="_blank">[MDN height Doc]</a>
+You need to set a string representing a **height** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/height" target="_blank">[MDN Doc]</a>
 
 ### margin
 
-You need to set a string representing a **margin** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/margin" target="_blank">[MDN margin Doc]</a>
+You need to set a string representing a **margin** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/margin" target="_blank">[MDN Doc]</a>
 
 ### padding
 
-You need to set a string representing a **padding** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/padding" target="_blank">[MDN padding Doc]</a>
+You need to set a string representing a **padding** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/padding" target="_blank">[MDN Doc]</a>
 
 ### min-height
 
-You need to set a string representing a **min-height** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/min-height" target="_blank">[MDN min-height Doc]</a>
+You need to set a string representing a **min-height** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/min-height" target="_blank">[MDN Doc]</a>
 
 ### max-height
 
-You need to set a string representing a **max-height** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/max-height" target="_blank">[MDN max-height Doc]</a>
+You need to set a string representing a **max-height** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/max-height" target="_blank">[MDN Doc]</a>
 
 ### border
 
-You need to set a string representing a **border value** <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border" target="_blank">[MDN border Doc]</a>
+You need to set a string representing a **border value** <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border" target="_blank">[MDN Doc]</a>
 
 ### border-top
 
-You need to set a string representing a **border-top** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-top" target="_blank">[MDN border-top Doc]</a>
+You need to set a string representing a **border-top** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-top" target="_blank">[MDN Doc]</a>
 
 ### border-bottom
 
-You need to set a string representing a **border-bottom** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom" target="_blank">[MDN border-bottom Doc]</a>
+You need to set a string representing a **border-bottom** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom" target="_blank">[MDN Doc]</a>
 
 ### border-left
 
-You need to set a string representing a **border-left** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-left" target="_blank">[MDN border-left Doc]</a>
+You need to set a string representing a **border-left** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-left" target="_blank">[MDN Doc]</a>
 
 ### border-right
 
-You need to set a string representing a **border-right** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-right" target="_blank">[MDN border-right Doc]</a>
+You need to set a string representing a **border-right** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-right" target="_blank">[MDN Doc]</a>
 
 ### border-radius
 
-You need to set a string representing a **border-radius** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius" target="_blank">[MDN border-radius Doc]</a>
+You need to set a string representing a **border-radius** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius" target="_blank">[MDN Doc]</a>
 
 ### cursor
 
-You need to set a string representing a **cursor** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/cursor" target="_blank">[MDN cursor Doc]</a>
+You need to set a string representing a **cursor** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/cursor" target="_blank">[MDN Doc]</a>
 
 ### display
 
-You need to set a boolean or string representing a **display** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/display" target="_blank">[MDN display Doc]</a>
+You need to set a boolean or string representing a **display** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/display" target="_blank">[MDN Doc]</a>
 
 ### transform
 
-You need to set a string representing a **transform** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transform" target="_blank">[MDN transform Doc]</a>
+You need to set a string representing a **transform** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transform" target="_blank">[MDN Doc]</a>
 
 ### perspective
 
-You need to set a string representing a **perspective** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/perspective" target="_blank">[MDN perspective Doc]</a>
+You need to set a string representing a **perspective** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/perspective" target="_blank">[MDN Doc]</a>
 
 ### transition
 
-You need to set a string representing a **transition** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transition" target="_blank">[MDN transition Doc]</a>
+You need to set a string representing a **transition** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transition" target="_blank">[MDN Doc]</a>
 
 ### flex
 
-You need to set a string representing a **flex** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex" target="_blank">[MDN flex Doc]</a>
+You need to set a string representing a **flex** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex" target="_blank">[MDN Doc]</a>
+
+### background.color
+
+You need to set a string representing a **color** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-color" target="_blank">[MDN Doc]</a>
+
+### background.size
+
+You need to set a string representing a **size** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-size" target="_blank">[MDN Doc]</a>
+
+### background.repeat
+
+You need to set a string representing a **background-repeat** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat" target="_blank">[MDN Doc]</a>
+
+### opacity
+
+You need to set a string representing an **opacity** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/opacity" target="_blank">[MDN Doc]</a>
+
+### box-shadow
+
+You need to set a string representing a **box-shadow** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow" target="_blank">[MDN Doc]</a>
