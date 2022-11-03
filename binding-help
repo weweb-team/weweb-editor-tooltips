@@ -124,6 +124,10 @@ You need to set a string representing a **size** value <a href="https://develope
 
 You need to set a string representing a **background-repeat** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat" target="_blank">[MDN Doc]</a>
 
+### background.url
+
+You need to set a string representing an **url** value
+
 ### opacity
 
 You need to set a string representing an **opacity** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/opacity" target="_blank">[MDN Doc]</a>
