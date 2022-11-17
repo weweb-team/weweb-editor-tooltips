@@ -125,6 +125,11 @@ Return a new array with only object where `key` is true (or equal to `value` if 
 Create a new array<br/><br/>
 `createArray(value1, [value2, value3, ...])`
 
+### compare
+
+Verify if two arrays are equals: they have the same values and the same order.<br/><br/>
+`compare(array1, array2)`
+
 ### join
 
 Concatenate all texts in `array` to a new text, separated by `separator`<br/>
