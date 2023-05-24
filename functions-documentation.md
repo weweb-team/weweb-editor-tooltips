@@ -219,12 +219,12 @@ Return an object that contains all keys from `object` except `key1`, `key2`, ...
 
 ### now
 
-Return the current date in ISO 8601 format<br/><br/>
+`now` is deprecated, please use `date` from the Date plugin instead.<br/><br/>
 `now()`
 
 ### timestamp
 
-Return a timestamp for the current date<br/><br/>
+`timestamp` is deprecated, please use `toTimestamp` from the Date plugin instead.<br/><br/>
 `timestamp()`
 
 ### fileToUrl
