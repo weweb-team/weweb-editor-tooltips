@@ -287,3 +287,10 @@ Should moslty be used in pass through conditions to get out of a loop action.<br
 
 Returns an array with all sub-array elements concatenated into it.<br/><br/>
 `flat(array)`
+
+### elementScrollPosition
+
+Returns an object containing position properties of the element with `id`.
+If `key` is specified, only the value for `key` will be returned.
+Valid values for `key` are : 'visible', 'x', 'y', 'xPercent', 'yPercent', 'width', 'height'
+`elementScrollPosition(id, [key])`
