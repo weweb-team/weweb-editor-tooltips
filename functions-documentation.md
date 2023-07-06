@@ -290,7 +290,7 @@ Returns an array with all sub-array elements concatenated into it.<br/><br/>
 
 ### elementScrollPosition
 
-Returns an object containing position properties of the element with `id`.
-If `key` is specified, only the value for `key` will be returned.
-Valid values for `key` are : 'visible', 'x', 'y', 'xPercent', 'yPercent', 'width', 'height'
+Returns an object containing position properties of the element with `id`.<br/>
+If `key` is specified, only the value for `key` will be returned.<br/>
+Valid values for `key` are : 'visible', 'x', 'y', 'xPercent', 'yPercent', 'width', 'height'<br/><br/>
 `elementScrollPosition(id, [key])`
