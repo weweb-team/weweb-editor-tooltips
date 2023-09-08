@@ -116,12 +116,12 @@ You need to set a string representing a **flex** value <a href="https://develope
 
 You need to set a string that can be any of the following :
 <ul>
-  <li><code>grad,img,col</code></li>
-  <li><code>grad,col,img</code></li>
-  <li><code>col,img,grad</code></li>
-  <li><code>col,grad,img</code></li>
-  <li><code>img,grad,col</code></li>
-  <li><code>img,col,grad</code></li>
+  <li><code>"grad,img,col"</code></li>
+  <li><code>"grad,col,img"</code></li>
+  <li><code>"col,img,grad"</code></li>
+  <li><code>"col,grad,img"</code></li>
+  <li><code>"img,grad,col"</code></li>
+  <li><code>"img,col,grad"</code></li>
 </ul>
 
 ### background.color
