@@ -116,7 +116,7 @@ You need to set a string representing a **flex** value <a href="https://develope
 
 You need to set a string representing an **image url** value
 
-### background.gradient
+### background
 
 You need to set a string representing a **gradient** value <a href="https://developer.mozilla.org/fr/docs/Web/CSS/gradient/linear-gradient" target="_blank">[MDN Doc]</a>
 
