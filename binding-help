@@ -112,9 +112,9 @@ You need to set a string representing a **transition** value <a href="https://de
 
 You need to set a string representing a **flex** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex" target="_blank">[MDN Doc]</a>
 
-### background.color
+### background.image
 
-You need to set a string representing a **color** value <a href="https://developer.mozilla.org/fr/docs/Web/CSS/color" target="_blank">[MDN Doc]</a>
+You need to set a string representing an **image url** value
 
 ### background.gradient
 
