@@ -155,3 +155,23 @@ You need to set a string representing an **opacity** value <a href="https://deve
 ### box-shadow
 
 You need to set a string representing a **box-shadow** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow" target="_blank">[MDN Doc]</a>
+
+### font-size
+
+You need to set a string representing a **font size** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size" target="_blank">[MDN Doc]</a>
+
+### font-family
+
+You need to set a string representing a **font family** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-family" target="_blank">[MDN Doc]</a>
+
+### font-weight
+
+You need to set a string representing a **font weight** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight" target="_blank">[MDN Doc]</a>
+
+### font-style
+
+You need to set a string representing a **font style** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-style" target="_blank">[MDN Doc]</a>
+
+### line-height
+
+You need to set a string representing a **line height** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/line-height" target="_blank">[MDN Doc]</a>
