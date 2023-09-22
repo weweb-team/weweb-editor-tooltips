@@ -194,7 +194,7 @@ You need to set a string representing a **text-decoration-style** value <a href=
 
 ### color
 
-You need to set a string representing a **color** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_colors/Applying_color#how_to_describe_a_color" target="_blank">[MDN Doc]</a>
+You need to set a string representing a **color** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_colors/Applying_color\#how_to_describe_a_color" target="_blank">[MDN Doc]</a>
 
 ### no-wrap
 
