@@ -175,3 +175,48 @@ You need to set a string representing a **font style** value <a href="https://de
 ### line-height
 
 You need to set a string representing a **line height** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/line-height" target="_blank">[MDN Doc]</a>
+
+### sanitize
+
+You need to set a boolean. True mean that the text will be sanitized.
+
+### text-align
+
+You need to set a string representing a **text-align** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-align" target="_blank">[MDN Doc]</a>
+
+### text-decoration
+
+You need to set a string representing a **text-decoration** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration" target="_blank">[MDN Doc]</a>
+
+### text-decoration-style
+
+You need to set a string representing a **text-decoration-style** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style" target="_blank">[MDN Doc]</a>
+
+### color
+
+You need to set a string representing a **color** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_colors/Applying_color#how_to_describe_a_color" target="_blank">[MDN Doc]</a>
+
+### no-wrap
+
+You need to set a boolean. True means that the text will not wrap at the end of a line (single line).
+
+### ellipsis
+
+You need to set a boolean. True means that the text will be cut with `...` inside an overlfow hidden parent
+
+### text-transform
+
+You need to set a string representing a **text-transform** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform" target="_blank">[MDN Doc]</a>
+
+### text-shadow
+
+You need to set a string representing a **text-shadow** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow" target="_blank">[MDN Doc]</a>
+
+### letter-spacing
+
+You need to set a string representing a **letter-spacing** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing" target="_blank">[MDN Doc]</a>
+
+### word-spacing
+
+You need to set a string representing a **word-spacing** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing" target="_blank">[MDN Doc]</a>
+
