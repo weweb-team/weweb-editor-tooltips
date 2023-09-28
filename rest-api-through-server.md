@@ -1,6 +1,6 @@
 ## Your application or a server?
 
-When you make an API call in WeWeb the request is made by your application (i.e. client-side request from the frontend, you're browser).
+When you make an API call in WeWeb the request is made by your application (i.e. client-side request from the frontend, your browser).
 
 But sometimes, APIs only accept requests that come from a server (i.e. server-side requests from the backend).
 
