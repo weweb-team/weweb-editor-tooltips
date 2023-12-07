@@ -220,3 +220,7 @@ You need to set a string representing a **letter-spacing** value <a href="https:
 
 You need to set a string representing a **word-spacing** value <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing" target="_blank">[MDN Doc]</a>
 
+### flex-direction
+
+You need to set a string representing a **flex-direction** value. 'column' for a vertical direction, and 'row' for a horizontal direction
+
