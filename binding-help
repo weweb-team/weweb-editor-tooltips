@@ -224,3 +224,31 @@ You need to set a string representing a **word-spacing** value <a href="https://
 
 You need to set a string representing a **flex-direction** value. 'column' for a vertical direction, and 'row' for a horizontal direction
 
+### row-gap
+
+You need to set a string representing a **row-gap** value. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/row-gap" target="_blank">[MDN Doc]</a>
+
+### column-gap
+
+You need to set a string representing a **column-gap** value. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/column-gap" target="_blank">[MDN Doc]</a>
+
+### justify-content
+
+You need to set a string representing a **justify-content** value. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content" target="_blank">[MDN Doc]</a>
+
+### align-items
+
+You need to set a string representing a **align-items** value. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/align-items" target="_blank">[MDN Doc]</a>
+
+### flex-wrap
+
+You need to return a boolean, true meaning that the elements will be wrapped.
+
+### layout-reverse
+
+You need to return a boolean, true meaning that the elements will be display in reverse order.
+
+### layout-push-last
+
+You need to return a boolean, true meaning that the last element will be pushed at the end.
+
