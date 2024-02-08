@@ -274,17 +274,17 @@ Return the number of characters in `text`<br/><br/>
 
 ### trim
 
-Remove whitespace from both ends of text
+Remove whitespace from both ends of text<br/>
 `trim(text)`
 
 ### trimStart
 
-Remove whitespace from the beginning of text
+Remove whitespace from the beginning of text<br/>
 `trimStart(text)`
 
 ### trimEnd
 
-Remove whitespace from the end of text
+Remove whitespace from the end of text<br/>
 `trimEnd(text)`
 
 ### subText
