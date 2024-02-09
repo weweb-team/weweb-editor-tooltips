@@ -192,6 +192,11 @@ Return an array of all keys present in `object`<br/><br/>
 Return an array of all values present in `object`<br/><br/>
 `values(object)`
 
+### objectToArray
+
+Returns an array corresponding to the enumerable string-keyed property key-value pairs<br/><br/>
+`objectToArray(object)`
+
 ### getKeyValue
 
 Return the value of the `key` in `object`<br/><br/>
