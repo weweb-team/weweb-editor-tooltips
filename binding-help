@@ -240,7 +240,7 @@ You need to set a string representing a **justify-content** value. <a href="http
 
 You need to set a string representing a **align-items** value. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/align-items" target="_blank">[MDN Doc]</a>
 
-### align-items
+### align-content
 
 You need to set a string representing a **align-content** value. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/align-content" target="_blank">[MDN Doc]</a>
 
