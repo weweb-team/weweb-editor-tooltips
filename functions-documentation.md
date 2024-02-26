@@ -314,3 +314,8 @@ Returns an object containing position properties of the element with `id`.<br/>
 If `key` is specified, only the value for `key` will be returned.<br/>
 Valid values for `key` are : 'visible', 'x', 'y', 'xPercent', 'yPercent', 'width', 'height'<br/><br/>
 `elementScrollPosition(id, [key])`
+
+### translate
+
+Take a multilang object property and return the text corresponding to the the current lang.
+`translate(prop)`
