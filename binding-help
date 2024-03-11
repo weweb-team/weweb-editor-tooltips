@@ -267,3 +267,19 @@ Define the grid's columns layout using an array of strings, each representing a 
 ### grid-rows
 
 Define the grid's rows layout using an array of strings, each representing a row's height. Example: `["100px", "auto", "30%"]`. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows" target="_blank">[MDN Doc]</a>
+
+### column-span
+
+Specifies how many columns an element should span across in the grid layout. This determines the element's width relative to the total number of grid columns. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column" target="_blank">[MDN Doc]</a>
+
+### row-span
+
+Defines the number of rows an element will span over. This affects the element's height by extending it across multiple grid rows. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row" target="_blank">[MDN Doc]</a>
+
+### grid-column
+
+Sets the element's starting and ending positions along the grid's column axis. It determines where the element is placed horizontally within the grid. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column" target="_blank">[MDN Doc]</a>
+
+### grid-row
+
+Indicates the element's starting and ending positions along the grid's row axis. This property controls the vertical placement of the element within the grid layout. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row" target="_blank">[MDN Doc]</a>
