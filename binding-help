@@ -256,3 +256,14 @@ You need to return a boolean, true meaning that the elements will be display in 
 
 You need to return a boolean, true meaning that the last element will be pushed at the end.
 
+### grid-flow-direction
+
+This property is equivalent to the CSS grid-auto-flow property. Possible values are `"row"`or `"column"`. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow" target="_blank">[MDN Doc]</a>
+
+### grid-columns
+
+Define the grid's columns layout using an array of strings, each representing a column's width. Example: `["1fr", "2fr", "auto"]`. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns" target="_blank">[MDN Doc]</a>
+
+### grid-rows
+
+Define the grid's rows layout using an array of strings, each representing a row's height. Example: `["100px", "auto", "30%"]`. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows" target="_blank">[MDN Doc]</a>
