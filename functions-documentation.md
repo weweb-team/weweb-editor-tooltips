@@ -161,6 +161,11 @@ Split `text` by `separator` into an array of subtexts<br/><br/>
 Return `text` in lowercase<br/><br/>
 `lower(text)`
 
+### lowercase
+
+Return `text` in lowercase<br/><br/>
+`lowercase(text)`
+
 ### capitalize
 
 Return `text` capitalized<br/><br/>
