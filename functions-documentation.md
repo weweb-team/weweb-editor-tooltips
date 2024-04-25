@@ -6,7 +6,7 @@ Return `value1` if `condition` is true, otherwise return `value2`<br/><br/>
 ### ifEmpty
 
 Return `value1` if not empty, otherwise return `value2` <br/><br/>
-`ifempty(value1, value2)`
+`ifEmpty(value1, value2)`
 
 ### not
 
