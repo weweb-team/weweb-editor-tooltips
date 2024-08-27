@@ -244,7 +244,7 @@ Return an url you can use on an image object to preview a file. If `file` is emp
 
 ### toBool
 
-Return a boolean (true or false) based on `value`<br/><br/>
+Returns `true` or `false`. If the value is omitted or is 0, -0, 0n, null, false, NaN, undefined, or the empty string (""), then the object has an initial value of false. All other values, including any object, an empty array ([]), or the string "false", create an object with an initial value of true.<br/><br/>
 `toBool(value)`
 
 ### lookup
