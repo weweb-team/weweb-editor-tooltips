@@ -284,6 +284,18 @@ Sets the element's starting and ending positions along the grid's column axis. I
 
 Indicates the element's starting and ending positions along the grid's row axis. This property controls the vertical placement of the element within the grid layout. Set the value of the property row-column to `value`. Overwrite the row span property. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row" target="_blank">[MDN Doc]</a>
 
+### border-collapse
+
+This property is equivalent to the CSS border-collapse property. Possible values are `"collapse"`or `"separate"`. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse" target="_blank">[MDN Doc]</a>
+
+### border-spacing
+
+This property is equivalent to the CSS border-spacing property. Possible values are any spacing string. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-spacing" target="_blank">[MDN Doc]</a>
+
+### table-layout
+
+This property is equivalent to the CSS table-layout property. Possible values are `"fixed"`or `"auto". <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/table-layout" target="_blank">[MDN Doc]</a>
+
 ### animation-duration
 
 Duration of one loop of the animation. Should be a string including the time unit : `1s`, `400ms`, ...<br/><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-duration" target="_blank">[MDN Doc]</a>
