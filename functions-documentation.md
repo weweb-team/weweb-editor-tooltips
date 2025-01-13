@@ -87,7 +87,7 @@ Return a new object that group `array` objects by `key` value<br/><br/>
 ### sort
 
 Order `array` by asc or desc (depending of `order` value).<br/>
-Use `key` argument to access subkeys properties inside complex objects. Ex: 'item.name' in `[{'item': {'name': 'my name'}}]`. `key` cannot include any function.<br/><br/>
+Use `key` argument to access subkeys properties inside complex objects. Ex: 'item.name' in `[{'item': {'name': 'my name'}}]`. `key` cannot include any function: 'textLength(name)' is not valid, wwFormula.textLength(name) is not valid.<br/><br/>
 `sort(array) OR sort(array, order) OR sort(array, order, key)`
 
 ### add
