@@ -15,7 +15,7 @@ Return true if `value` is falsy, otherwise return false <br/><br/>
 
 ### switch
 
-Compare `expression` to `value1`, `value2`, ... and return `result1` if `expression` is equal to `value1`, `result2` if `expression` is equal to `value2`, ... If no value match, and a `defaultValue` is provided, return `defaultValue` else return `undefined` <br/><br/>
+Compare `expression` to `value1`, `value2`, ... and return `result1` if `expression` is exaclty equal to `value1`, `result2` if `expression` is exaclty equal to `value2`, ... If no value match exaclty, and a `defaultValue` is provided, return `defaultValue` else return `undefined` <br/><br/>
 `switch(expression, value1, result1, value2, result2, ..., [defaultValue])`
 
 ### average
