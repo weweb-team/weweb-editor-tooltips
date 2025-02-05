@@ -279,7 +279,8 @@ Return -1 if not found<br/><br/>
 
 ### textLength
 
-Return the number of characters in `text`<br/><br/>
+Return the number of characters in `text`<br/>
+`text` must be a string. Use `length` for arrays<br/><br/>
 `textLength(text)`
 
 ### trim
