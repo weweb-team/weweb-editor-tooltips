@@ -1,6 +1,6 @@
 ### if
 
-Return `value1` if `condition` is true, otherwise return `value2`<br/><br/>
+Return `value1` if `condition` is true, otherwise return `value2`<br/>The condition and the 2 values are mandatory<br/><br/>
 `if(condition, value1, value2)`
 
 ### ifEmpty
