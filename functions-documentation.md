@@ -325,3 +325,8 @@ Valid values for `key` are : 'visible', 'x', 'y', 'xPercent', 'yPercent', 'width
 
 Take a multilang object property and return the text corresponding to the the current lang.
 `translate(prop)`
+
+### isEmail
+
+Check if `value` is a valid email format<br/><br/>
+`isEmail(value)`
