@@ -1,269 +1,215 @@
-### text
-
+### Text
 Set the text that will be displayed for {language}  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#text-lang" target="_blank">[Link to documentation]</a>
 
-### sanitize
-
+### Sanitize
 Escape special characters in user-generated text to prevent security issues  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#sanitize" target="_blank">[Link to documentation]</a>
 
-### typography
-
+### Typography
 Apply a preset text style from your library  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#display-1" target="_blank">[Link to documentation]</a>
 
-### size
-
+### Size
 Set the size of the text  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#size" target="_blank">[Link to documentation]</a>
 
-### font-family
-
+### Font family
 Choose the font used for this text  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#font-family" target="_blank">[Link to documentation]</a>
 
-### font-weight
-
+### Font weight
 Set how bold or light the text appears  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#font-weight" target="_blank">[Link to documentation]</a>
 
-### font-style
-
+### Font Style
 Choose between regular or italic style  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#font-style" target="_blank">[Link to documentation]</a>
 
-### line-height
-
+### Line height
 Adjust the space between lines of text  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#line-height" target="_blank">[Link to documentation]</a>
 
-### alignment
-
+### Alignment
 Align the text left, center, right, or justified  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#alignment" target="_blank">[Link to documentation]</a>
 
-### text-color
-
+### Text color
 Set the color of the text  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#text-color" target="_blank">[Link to documentation]</a>
 
-### decoration
-
+### Decoration
 Add effects like underline or line-through to your text  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#text-decoration" target="_blank">[Link to documentation]</a>
 
-### no-wrap
-
+### No-wrap
 Keep the text on a single line without breaking  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#no-wrap" target="_blank">[Link to documentation]</a>
 
-### character-case
-
+### Character case
 Transform text to uppercase, lowercase, or capitalized  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#character-case" target="_blank">[Link to documentation]</a>
 
-### text-shadows
-
+### Text Shadows
 Add a shadow effect to your text  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#text-shadows" target="_blank">[Link to documentation]</a>
 
-### letter-spacing
-
+### Letter spacing
 Set the space between each letter  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#letter-spacing" target="_blank">[Link to documentation]</a>
 
-### word-spacing
-
+### Word spacing
 Set the space between each word  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#word-spacing" target="_blank">[Link to documentation]</a>
 
-### display
-
+### Display
 Choose if and how the element is displayed  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#display-1" target="_blank">[Link to documentation]</a>
 
-### align-self
-
+### Align self
 Override the parent container’s alignment and choose how this element aligns itself  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#align-self" target="_blank">[Link to documentation]</a>
 
-### sizing
-
+### Sizing
 Set how this element should size itself inside the container  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#sizing-2" target="_blank">[Link to documentation]</a>
 
-### direction
-
+### Direction
 Set if items are arranged horizontally or vertically  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#direction" target="_blank">[Link to documentation]</a>
 
-### row-gap
-
+### Row gap
 Set the space between each row of items  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#rows-gap" target="_blank">[Link to documentation]</a>
 
-### column-gap
-
+### Column gap
 Set the space between each column of items  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#columns-gap" target="_blank">[Link to documentation]</a>
 
-### justify
-
+### Justify
 Set how items are spaced horizontally  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#justify" target="_blank">[Link to documentation]</a>
 
-### reverse
-
+### Reverse
 Display items in the opposite order  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#reverse-order" target="_blank">[Link to documentation]</a>
 
-### last-to-the-end
-
+### Last to the end
 Move the last item to the end of the container  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#push-last-to-the-end" target="_blank">[Link to documentation]</a>
 
-### width
-
+### Width
 Set the width of the element  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#width" target="_blank">[Link to documentation]</a>
 
-### height
-
+### Height
 Set the height of the element  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#height" target="_blank">[Link to documentation]</a>
 
-### max-width
-
+### Max width
 Set the maximum width of the element  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#max-width" target="_blank">[Link to documentation]</a>
 
-### min-width
-
+### Min width
 Set the minimum width of the element  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#min-width" target="_blank">[Link to documentation]</a>
 
-### max-height
-
+### Max height
 Set the maximum height of the element  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#max-height" target="_blank">[Link to documentation]</a>
 
-### min-height
-
+### Min height
 Set the minimum height of the element  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#min-height" target="_blank">[Link to documentation]</a>
 
-### padding
-
+### Padding
 Set the inner spacing of the element  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#padding" target="_blank">[Link to documentation]</a>
 
-### margin
-
+### Margin
 Set the outer spacing around the element  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#margin" target="_blank">[Link to documentation]</a>
 
-### borders
-
+### Borders
 Set the borders of the element  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#borders" target="_blank">[Link to documentation]</a>
 
-### outline
-
+### Outline
 Add a visible outline around the element  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#outline" target="_blank">[Link to documentation]</a>
 
-### offset
-
+### Offset
 Set the distance between the element’s outline and its edge  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#outline" target="_blank">[Link to documentation]</a>
 
-### radius
-
+### Radius
 Make the element’s corners rounded  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#direction" target="_blank">[Link to documentation]</a>
 
-### opacity
-
+### Opacity
 Set how transparent the element is  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#opacity" target="_blank">[Link to documentation]</a>
 
-### position
-
+### Position
 Set how the element is positioned on the page  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#position" target="_blank">[Link to documentation]</a>
 
 ### z-axis
-
 Set which elements appear in front or behind others  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#z-axis" target="_blank">[Link to documentation]</a>
 
-### cursor
-
+### Cursor
 Set the mouse cursor shown when hovering over the element  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#cursor" target="_blank">[Link to documentation]</a>
 
-### overflow
-
+### Overflow
 Set what happens when content goes outside the element  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#overflow" target="_blank">[Link to documentation]</a>
 
-### transform
-
+### Transform
 Apply effects like move, rotate, or scale to the element  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#transform" target="_blank">[Link to documentation]</a>
 
-### transitions
-
+### Transitions
 Smoothly animate changes like hover effects or size updates  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#transition" target="_blank">[Link to documentation]</a>
 
-### perspective
-
+### Perspective
 Add 3D depth effects to the element  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#perspective" target="_blank">[Link to documentation]</a>
 
 ### css
-
 Add your own custom styles if needed  
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#custom-css" target="_blank">[Link to documentation]</a>
 
-### duration
-
+### Duration
 Set how long the animation should take from start to finish  
 <a href="https://docs.weweb.io/css-and-styling/css-animations.html#animation-properties" target="_blank">[Link to documentation]</a>
 
-### delay
-
+### Delay
 Set how long to wait before the animation starts  
 <a href="https://docs.weweb.io/css-and-styling/css-animations.html#animation-properties" target="_blank">[Link to documentation]</a>
 
-### transition
-
+### Transition
 Choose how the animation progresses over time (like smooth, fast, or bouncy)  
 <a href="https://docs.weweb.io/css-and-styling/css-animations.html#animation-properties" target="_blank">[Link to documentation]</a>
 
-### iterations
-
+### Iterations
 Set how many times the animation should repeat (or run forever)  
 <a href="https://docs.weweb.io/css-and-styling/css-animations.html#animation-properties" target="_blank">[Link to documentation]</a>
 
-### alternate
-
+### Alternate
 Make the animation reverse direction every other time it plays  
 <a href="https://docs.weweb.io/css-and-styling/css-animations.html#animation-properties" target="_blank">[Link to documentation]</a>
 
-### fill-mode
-
+### Fill-mode
 Decide if the animation’s styles should apply before it starts or remain after it ends  
 <a href="https://docs.weweb.io/css-and-styling/css-animations.html#animation-properties" target="_blank">[Link to documentation]</a>
 
-### play-state
-
+### Play-state
 Start or pause the animation  
 <a href="https://docs.weweb.io/css-and-styling/css-animations.html#animation-properties" target="_blank">[Link to documentation]</a>
 
-### condition
-
+### Condition
 Set whether you want the element to be rendered in the DOM  
 <a href="https://docs.weweb.io/css-and-styling/conditional-rendering.html" target="_blank">[Link to documentation]</a>
