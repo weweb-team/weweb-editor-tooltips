@@ -330,3 +330,168 @@ Take a multilang object property and return the text corresponding to the the cu
 
 Check if `value` is a valid email format<br/><br/>
 `isEmail(value)`
+
+### date
+
+Create a date from components or parse a date string. Returns current date if no arguments provided.<br/><br/>
+`date()` OR `date(dateString)` OR `date(year, month, day, [hour], [minute], [second], [ms])`
+
+### dateRealtime
+
+Return the current date and time, updating in realtime every second.<br/><br/>
+`dateRealtime()`
+
+### toDateISO
+
+Convert a date to ISO 8601 format string (YYYY-MM-DDTHH:mm:ss.sssZ).<br/><br/>
+`toDateISO(date)`
+
+### formatDate
+
+Format a date according to a pattern.<br/>Common tokens: `YYYY` (year), `MM` (month), `DD` (day), `HH` (hour 24h), `hh` (hour 12h), `mm` (minute), `ss` (second), `A` (AM/PM).<br/><br/>
+`formatDate(date, [format], [locale])`
+
+### fromTime
+
+Return a relative time string from now (e.g., "5 minutes ago", "in 2 hours").<br/>Set `withoutSuffix` to true to get duration only (e.g., "5 minutes").<br/><br/>
+`fromTime(date, [withoutSuffix], [locale])`
+
+### toTime
+
+Return a relative time string to a date (e.g., "5 minutes ago", "in 2 hours").<br/>Set `withoutSuffix` to true to get duration only (e.g., "5 minutes").<br/><br/>
+`toTime(date, [withoutSuffix], [locale])`
+
+### compareDate
+
+Compare two dates and return the difference.<br/>Precision: `millisecond`, `second`, `minute`, `hour`, `day`, `week`, `month`, `year`.<br/>Returns integer by default, set `float` to true for decimal.<br/><br/>
+`compareDate(date1, date2, [precision], [float])`
+
+### getSecond
+
+Get the second (0-59) from a date.<br/><br/>
+`getSecond(date)`
+
+### getMinute
+
+Get the minute (0-59) from a date.<br/><br/>
+`getMinute(date)`
+
+### getHour
+
+Get the hour (0-23) from a date.<br/><br/>
+`getHour(date)`
+
+### getDay
+
+Get the day of the month (1-31) from a date.<br/><br/>
+`getDay(date)`
+
+### getDayOfWeek
+
+Get the day of the week (0-6, where 0 is Sunday) from a date.<br/><br/>
+`getDayOfWeek(date)`
+
+### getMonth
+
+Get the month (1-12) from a date.<br/><br/>
+`getMonth(date)`
+
+### getYear
+
+Get the full year from a date.<br/><br/>
+`getYear(date)`
+
+### getDayOfYear
+
+Get the day of the year (1-366) from a date.<br/><br/>
+`getDayOfYear(date)`
+
+### getWeekOfYear
+
+Get the week number of the year (1-53) from a date.<br/><br/>
+`getWeekOfYear(date)`
+
+### addSeconds
+
+Add or subtract seconds from a date. Use negative values to subtract.<br/><br/>
+`addSeconds(date, amount)`
+
+### addMinutes
+
+Add or subtract minutes from a date. Use negative values to subtract.<br/><br/>
+`addMinutes(date, amount)`
+
+### addHours
+
+Add or subtract hours from a date. Use negative values to subtract.<br/><br/>
+`addHours(date, amount)`
+
+### addDays
+
+Add or subtract days from a date. Use negative values to subtract.<br/><br/>
+`addDays(date, amount)`
+
+### addMonths
+
+Add or subtract months from a date. Use negative values to subtract.<br/><br/>
+`addMonths(date, amount)`
+
+### addYears
+
+Add or subtract years from a date. Use negative values to subtract.<br/><br/>
+`addYears(date, amount)`
+
+### setSecond
+
+Set the second (0-59) of a date.<br/><br/>
+`setSecond(date, value)`
+
+### setMinute
+
+Set the minute (0-59) of a date.<br/><br/>
+`setMinute(date, value)`
+
+### setHour
+
+Set the hour (0-23) of a date.<br/><br/>
+`setHour(date, value)`
+
+### setDay
+
+Set the day of the month (1-31) of a date.<br/><br/>
+`setDay(date, value)`
+
+### setDayOfWeek
+
+Set the day of the week (0-6, where 0 is Sunday) of a date.<br/><br/>
+`setDayOfWeek(date, value)`
+
+### setMonth
+
+Set the month (1-12) of a date.<br/><br/>
+`setMonth(date, value)`
+
+### setYear
+
+Set the full year of a date.<br/><br/>
+`setYear(date, value)`
+
+### toTimestamp
+
+Convert a date to Unix timestamp (milliseconds since January 1, 1970).<br/><br/>
+`toTimestamp(date)`
+
+### getBrowserTimezone
+
+Get the browser's current timezone (e.g., "America/New_York", "Europe/Paris").<br/><br/>
+`getBrowserTimezone()`
+
+### convertDateTimezone
+
+Convert a date to a different timezone.<br/>Set `preserve` to true to keep the same local time in the new timezone.<br/><br/>
+`convertDateTimezone(date, timezone, [preserve])`
+
+### formatDateTimezone
+
+Format a date in a specific timezone.<br/><br/>
+`formatDateTimezone(date, format, timezone, [locale])`
