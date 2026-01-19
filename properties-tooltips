@@ -1,215 +1,285 @@
 ### _ww-text_text
-Set the text that will be displayed for {language}</br></br>
+Set the text that will be displayed for {language}<br/>Example: `Hello world`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#text-lang" target="_blank">[Link to documentation]</a>
 
 ### _ww-text_sanitize
-Escape special characters in user-generated text to prevent security issues</br></br>
+Escape special characters in user-generated text to prevent security issues<br/>Possible values: `true`, `false`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#sanitize" target="_blank">[Link to documentation]</a>
 
 ### _ww-text_font
-Apply a preset text style from your library</br></br>
+Apply a preset text style from your library<br/>Example: `display-1`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#display-1" target="_blank">[Link to documentation]</a>
 
 ### _ww-text_fontSize
-Set the size of the text</br></br>
+Set the size of the text<br/>Example: `16px`, `1rem`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#size" target="_blank">[Link to documentation]</a>
 
 ### _ww-text_fontFamily
-Choose the font used for this text</br></br>
+Choose the font used for this text<br/>Example: `Inter`, `Roboto`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#font-family" target="_blank">[Link to documentation]</a>
 
 ### _ww-text_fontWeight
-Set how bold or light the text appears</br></br>
+Set how bold or light the text appears<br/>Example: `400`, `700`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#font-weight" target="_blank">[Link to documentation]</a>
 
 ### _ww-text_fontStyle
-Choose between regular or italic style</br></br>
+Choose between regular or italic style<br/>Possible values: `normal`, `italic`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#font-style" target="_blank">[Link to documentation]</a>
 
 ### _ww-text_lineHeight
-Adjust the space between lines of text</br></br>
+Adjust the space between lines of text<br/>Example: `1.5`, `24px`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#line-height" target="_blank">[Link to documentation]</a>
 
 ### _ww-text_textAlign
-Align the text left, center, right, or justified</br></br>
+Align the text left, center, right, or justified<br/>Possible values: `left`, `center`, `right`, `justify`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#alignment" target="_blank">[Link to documentation]</a>
 
 ### _ww-text_color
-Set the color of the text</br></br>
+Set the color of the text<br/>Example: `#1A1A1A`, `rgb(17, 24, 39)`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#text-color" target="_blank">[Link to documentation]</a>
 
 ### _ww-text_textDecoration
-Add effects like underline or line-through to your text</br></br>
+Add effects like underline or line-through to your text<br/>Possible values: `none`, `underline`, `line-through`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#text-decoration" target="_blank">[Link to documentation]</a>
 
 ### _ww-text_nowrap
-Keep the text on a single line without breaking</br></br>
+Keep the text on a single line without breaking<br/>Possible values: `true`, `false`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#no-wrap" target="_blank">[Link to documentation]</a>
 
 ### _ww-text_textTransform
-Transform text to uppercase, lowercase, or capitalized</br></br>
+Transform text to uppercase, lowercase, or capitalized<br/>Possible values: `uppercase`, `lowercase`, `capitalize`, `none`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#character-case" target="_blank">[Link to documentation]</a>
 
 ### _ww-text_textShadow
-Add a shadow effect to your text</br></br>
+Add a shadow effect to your text<br/>Example: `0 2px 8px rgba(0,0,0,0.2)`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#text-shadows" target="_blank">[Link to documentation]</a>
 
 ### _ww-text_letterSpacing
-Set the space between each letter</br></br>
+Set the space between each letter<br/>Example: `0.05em`, `1px`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#letter-spacing" target="_blank">[Link to documentation]</a>
 
 ### _ww-text_wordSpacing
-Set the space between each word</br></br>
+Set the space between each word<br/>Example: `0.1em`, `4px`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#word-spacing" target="_blank">[Link to documentation]</a>
 
 ### display
-Choose if and how the element is displayed</br></br>
+Choose if and how the element is displayed<br/>Possible values: `block`, `inline`, `flex`, `none`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#display-1" target="_blank">[Link to documentation]</a>
 
 ### align
-Override the parent container’s alignment and choose how this element aligns itself</br></br>
+Override the parent container’s alignment and choose how this element aligns itself<br/>Possible values: `start`, `center`, `end`, `stretch`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#align-self" target="_blank">[Link to documentation]</a>
 
 ### flex
-Set how this element should size itself inside the container</br></br>
+Set how this element should size itself inside the container<br/>Example: `1`, `0 0 auto`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#sizing-2" target="_blank">[Link to documentation]</a>
 
 ### _ww-layout_flexDirection
-Set if items are arranged horizontally or vertically</br></br>
+Set if items are arranged horizontally or vertically<br/>Possible values: `row`, `column`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#direction" target="_blank">[Link to documentation]</a>
 
 ### _ww-layout_rowGap
-Set the space between each row of items</br></br>
+Set the space between each row of items<br/>Example: `16px`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#rows-gap" target="_blank">[Link to documentation]</a>
 
 ### _ww-layout_columnGap
-Set the space between each column of items</br></br>
+Set the space between each column of items<br/>Example: `16px`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#columns-gap" target="_blank">[Link to documentation]</a>
 
 ### _ww-layout_justifyContent
-Set how items are spaced horizontally</br></br>
+Set how items are spaced horizontally<br/>Possible values: `start`, `center`, `end`, `space-between`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#justify" target="_blank">[Link to documentation]</a>
 
 ### _ww-layout_reverse
-Display items in the opposite order</br></br>
+Display items in the opposite order<br/>Possible values: `true`, `false`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#reverse-order" target="_blank">[Link to documentation]</a>
 
 ### _ww-layout_pushLast
-Move the last item to the end of the container</br></br>
+Move the last item to the end of the container<br/>Possible values: `true`, `false`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#push-last-to-the-end" target="_blank">[Link to documentation]</a>
 
 ### width
-Set the width of the element</br></br>
+Set the width of the element<br/>Example: `320px`, `100%`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#width" target="_blank">[Link to documentation]</a>
 
 ### height
-Set the height of the element</br></br>
+Set the height of the element<br/>Example: `200px`, `100vh`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#height" target="_blank">[Link to documentation]</a>
 
 ### maxWidth
-Set the maximum width of the element</br></br>
+Set the maximum width of the element<br/>Example: `1200px`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#max-width" target="_blank">[Link to documentation]</a>
 
 ### minWidth
-Set the minimum width of the element</br></br>
+Set the minimum width of the element<br/>Example: `200px`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#min-width" target="_blank">[Link to documentation]</a>
 
 ### maxHeight
-Set the maximum height of the element</br></br>
+Set the maximum height of the element<br/>Example: `600px`, `100vh`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#max-height" target="_blank">[Link to documentation]</a>
 
 ### minHeight
-Set the minimum height of the element</br></br>
+Set the minimum height of the element<br/>Example: `200px`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#min-height" target="_blank">[Link to documentation]</a>
 
 ### padding
-Set the inner spacing of the element</br></br>
+Set the inner spacing of the element<br/>Example: `16px`, `8px 12px`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#padding" target="_blank">[Link to documentation]</a>
 
 ### margin
-Set the outer spacing around the element</br></br>
+Set the outer spacing around the element<br/>Example: `8px`, `0 auto`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#margin" target="_blank">[Link to documentation]</a>
 
 ### border
-Set the borders of the element</br></br>
+Set the borders of the element<br/>Example: `1px solid #e2e8f0`, `none`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#borders" target="_blank">[Link to documentation]</a>
 
 ### outline
-Add a visible outline around the element</br></br>
+Add a visible outline around the element<br/>Example: `2px solid #3b82f6`, `none`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#outline" target="_blank">[Link to documentation]</a>
 
 ### outlineOffset
-Set the distance between the element’s outline and its edge</br></br>
+Set the distance between the element’s outline and its edge<br/>Example: `2px`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#outline" target="_blank">[Link to documentation]</a>
 
 ### borderRadius
-Make the element’s corners rounded</br></br>
-<a href="https://docs.weweb.io/css-and-styling/css-properties.html#direction" target="_blank">[Link to documentation]</a>
+Make the element’s corners rounded<br/>Example: `8px`, `9999px`</br></br>
+<a href="https://docs.weweb.io/css-and-styling/css-properties.html#radius" target="_blank">[Link to documentation]</a>
 
 ### opacity
-Set how transparent the element is</br></br>
+Set how transparent the element is<br/>Example: `0.5`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#opacity" target="_blank">[Link to documentation]</a>
 
 ### position
-Set how the element is positioned on the page</br></br>
+Set how the element is positioned on the page<br/>Possible values: `static`, `relative`, `absolute`, `fixed`, `sticky`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#position" target="_blank">[Link to documentation]</a>
 
 ### zIndex
-Set which elements appear in front or behind others</br></br>
+Set which elements appear in front or behind others<br/>Example: `10`, `999`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#z-axis" target="_blank">[Link to documentation]</a>
 
 ### cursor
-Set the mouse cursor shown when hovering over the element</br></br>
+Set the mouse cursor shown when hovering over the element<br/>Possible values: `pointer`, `default`, `text`, `move`, `not-allowed`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#cursor" target="_blank">[Link to documentation]</a>
 
 ### overflow
-Set what happens when content goes outside the element</br></br>
+Set what happens when content goes outside the element<br/>Possible values: `visible`, `hidden`, `scroll`, `auto`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#overflow" target="_blank">[Link to documentation]</a>
 
 ### transform
-Apply effects like move, rotate, or scale to the element</br></br>
+Apply effects like move, rotate, or scale to the element<br/>Example: `translateY(4px) scale(1.02)`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#transform" target="_blank">[Link to documentation]</a>
 
 ### transition
-Smoothly animate changes like hover effects or size updates</br></br>
+Smoothly animate changes like hover effects or size updates<br/>Example: `all 200ms ease`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#transition" target="_blank">[Link to documentation]</a>
 
 ### perspective
-Add 3D depth effects to the element</br></br>
+Add 3D depth effects to the element<br/>Example: `800px`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#perspective" target="_blank">[Link to documentation]</a>
 
 ### customCss
-Add your own custom styles if needed</br></br>
+Add your own custom CSS properties and values if needed<br/>Example: `background: red;`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#custom-css" target="_blank">[Link to documentation]</a>
 
 ### animationDuration
-Set how long the animation should take from start to finish</br></br>
+Set how long the animation should take from start to finish<br/>Example: `300ms`, `1s`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-animations.html#animation-properties" target="_blank">[Link to documentation]</a>
 
 ### animationDelay
-Set how long to wait before the animation starts</br></br>
+Set how long to wait before the animation starts<br/>Example: `100ms`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-animations.html#animation-properties" target="_blank">[Link to documentation]</a>
 
 ### animationTimingFunction
-Choose how the animation progresses over time (like smooth, fast, or bouncy)</br></br>
+Choose how the animation progresses over time (like smooth, fast, or bouncy)<br/>Example: `ease`, `linear`, `cubic-bezier(0.4,0,0.2,1)`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-animations.html#animation-properties" target="_blank">[Link to documentation]</a>
 
 ### animationIterationCount
-Set how many times the animation should repeat (or run forever)</br></br>
+Set how many times the animation should repeat (or run forever)<br/>Example: `1`, `infinite`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-animations.html#animation-properties" target="_blank">[Link to documentation]</a>
 
 ### animationDirection
-Make the animation reverse direction every other time it plays</br></br>
+Make the animation reverse direction every other time it plays<br/>Possible values: `normal`, `reverse`, `alternate`, `alternate-reverse`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-animations.html#animation-properties" target="_blank">[Link to documentation]</a>
 
 ### animationFillMode
-Decide if the animation’s styles should apply before it starts or remain after it ends</br></br>
+Decide if the animation's styles should apply before it starts or remain after it ends<br/>Possible values: `none`, `forwards`, `backwards`, `both`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-animations.html#animation-properties" target="_blank">[Link to documentation]</a>
 
 ### animationPlayState
-Start or pause the animation</br></br>
+Start or pause the animation<br/>Possible values: `running`, `paused`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/css-animations.html#animation-properties" target="_blank">[Link to documentation]</a>
 
 ### conditionalRendering
-Set whether you want the element to be rendered in the DOM</br></br>
+Set whether you want the element to be rendered in the DOM<br/>Possible values: `true`, `false`</br></br>
 <a href="https://docs.weweb.io/css-and-styling/conditional-rendering.html" target="_blank">[Link to documentation]</a>
+
+### link
+Set where to navigate when this element is clicked</br></br>
+<a href="https://docs.weweb.io/pages/navigation.html#link" target="_blank">[Link to documentation]</a>
+
+### name
+Set the name shown in the layout tree<br/>Example: `Header`</br></br>
+
+### sectionTitle
+Set the name shown in the layout tree<br/>Example: `Header`</br></br>
+
+### id
+Set the id attribute of this element in the HTML<br/>Example: `hero-section`</br></br>
+
+### class
+Set a custom class attribute for this element in the HTML<br/>Example: `btn primary`</br></br>
+
+### attributes
+Add custom HTML attributes to this element<br/>Example: `aria-label="Close"`</br></br>
+
+### watchScrollPosition
+Set whether you want the scroll position of this element to be available in the binding window<br/>Possible values: `true`, `false`</br></br>
+
+### htmlTag
+Choose which HTML tag this text element should use<br/>Possible values: `p`, `span`, `h1`, `div`</br></br>
+
+### tag
+Choose which HTML tag this element should use<br/>Possible values: `p`, `span`, `h1`, `div`</br></br>
+
+### top
+Set the distance from the top when using relative/absolute/fixed/sticky positioning<br/>Example: `0`, `16px`, `10%`</br></br>
+
+### right
+Set the distance from the right when using relative/absolute/fixed/sticky positioning<br/>Example: `0`, `16px`, `10%`</br></br>
+
+### bottom
+Set the distance from the bottom when using relative/absolute/fixed/sticky positioning<br/>Example: `0`, `16px`, `10%`</br></br>
+
+### left
+Set the distance from the left when using relative/absolute/fixed/sticky positioning<br/>Example: `0`, `16px`, `10%`</br></br>
+
+### boxShadow
+Add a shadow around the element<br/>Example: `0 2px 8px rgba(0,0,0,0.2)`</br></br>
+
+### _ww-layout_alignItems
+Set how items align on the cross axis (perpendicular to the layout direction)<br/>Possible values: `flex-start`, `center`, `flex-end`, `stretch`</br></br>
+
+### _ww-layout_flexWrap
+Allow items to wrap onto multiple lines when there isn’t enough space<br/>Possible values: `true`, `false`</br></br>
+
+### _ww-layout_alignContent
+Set how multiple rows/columns are spaced when items wrap<br/>Possible values: `flex-start`, `center`, `flex-end`, `stretch`, `space-between`, `space-around`</br></br>
+
+### _ww-grid_flowDirection
+Choose whether the grid auto-places items by row or by column<br/>Possible values: `row`, `column`</br></br>
+
+### _ww-grid_columns
+Define the grid’s columns<br/>Example: `["1fr", "2fr"]`, `["200px", "1fr"]`</br></br>
+
+### _ww-grid_rows
+Define the grid’s rows<br/>Example: `["auto", "1fr"]`, `["64px", "1fr"]`</br></br>
+
+### _ww-grid_columnGap
+Set the space between each column in the grid<br/>Example: `16px`</br></br>
+
+### _ww-grid_rowGap
+Set the space between each row in the grid<br/>Example: `16px`</br></br>
+
+### forceRendering
+Force the element to display in the editor even when it would normally be hidden<br/>Possible values: `true`, `false`</br></br>
