@@ -215,7 +215,7 @@ Set whether you want the element to be rendered in the DOM</br></br>Possible val
 <a href="https://docs.weweb.io/css-and-styling/conditional-rendering.html" target="_blank">[Link to documentation]</a>
 
 ### link
-Set where to navigate when this element is clicked</br></br>Example: `/about`, `https://example.com`</br>
+Set where to navigate when this element is clicked</br></br>
 <a href="https://docs.weweb.io/pages/navigation.html#link" target="_blank">[Link to documentation]</a>
 
 ### name
