@@ -159,7 +159,7 @@ Set which elements appear in front or behind others</br></br>Example: `10`, `999
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#z-axis" target="_blank">[Link to documentation]</a>
 
 ### cursor
-Set the mouse cursor shown when hovering over the element</br></br>Possible values: `pointer`, `default`, `text`, `move`, `not-allowed`</br>
+Set the mouse cursor shown when hovering over the element</br></br>Example: `pointer`, `default`, `text`, `move`, `not-allowed`</br>
 <a href="https://docs.weweb.io/css-and-styling/css-properties.html#cursor" target="_blank">[Link to documentation]</a>
 
 ### overflow
