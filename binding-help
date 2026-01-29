@@ -1,5 +1,5 @@
 ### align
-You need to set a string representing a **align** value.<br/><br/>
+You need to set a string representing a **align** value.<br/>
 Example: `center`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container" target="_blank">[MDN Doc]</a>
 
@@ -9,153 +9,153 @@ Example: `10`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/z-index" target="_blank">[MDN Doc]</a>
 
 ### overflow
-You need to set a string representing a **overflow** value.<br/><br/>
+You need to set a string representing a **overflow** value.<br/>
 Example: `hidden`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/overflow" target="_blank">[MDN Doc]</a>
 
 ### position
-You need to set a string representing a **position** value.<br/><br/>
+You need to set a string representing a **position** value.<br/>
 Example: `relative`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/position" target="_blank">[MDN Doc]</a>
 
 ### top
-You need to set a string representing a **top** value.<br/><br/>
+You need to set a string representing a **top** value.<br/>
 Example: `16px`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/top" target="_blank">[MDN Doc]</a>
 
 ### bottom
-You need to set a string representing a **bottom** value.<br/><br/>
+You need to set a string representing a **bottom** value.<br/>
 Example: `0`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/bottom" target="_blank">[MDN Doc]</a>
 
 ### left
-You need to set a string representing a **left** value.<br/><br/>
+You need to set a string representing a **left** value.<br/>
 Example: `50%`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/left" target="_blank">[MDN Doc]</a>
 
 ### right
-You need to set a string representing a **right** value.<br/><br/>
+You need to set a string representing a **right** value.<br/>
 Example: `0`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/right" target="_blank">[MDN Doc]</a>
 
 ### width
 
-You need to set a string representing a **width** value.<br/><br/>
+You need to set a string representing a **width** value.<br/>
 Example: `150px`, `75%`, `20em`, `auto`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/width" target="_blank">[MDN Doc]</a>
 
 ### min-width
-You need to set a string representing a **min-width** value.<br/><br/>
+You need to set a string representing a **min-width** value.<br/>
 Example: `200px`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/min-width" target="_blank">[MDN Doc]</a>
 
 ### max-width
-You need to set a string representing a **max-width** value.<br/><br/>
+You need to set a string representing a **max-width** value.<br/>
 Example: `1200px`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/max-width" target="_blank">[MDN Doc]</a>
 
 ### height
-You need to set a string representing a **height** value.<br/><br/>
+You need to set a string representing a **height** value.<br/>
 Example: `100vh`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/height" target="_blank">[MDN Doc]</a>
 
 ### margin
-You need to set a string representing a **margin** value.<br/><br/>
+You need to set a string representing a **margin** value.<br/>
 Example: `0 auto`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/margin" target="_blank">[MDN Doc]</a>
 
 ### padding
-You need to set a string representing a **padding** value.<br/><br/>
+You need to set a string representing a **padding** value.<br/>
 Example: `8px 12px`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/padding" target="_blank">[MDN Doc]</a>
 
 ### min-height
-You need to set a string representing a **min-height** value.<br/><br/>
+You need to set a string representing a **min-height** value.<br/>
 Example: `200px`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/min-height" target="_blank">[MDN Doc]</a>
 
 ### max-height
-You need to set a string representing a **max-height** value.<br/><br/>
+You need to set a string representing a **max-height** value.<br/>
 Example: `600px`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/max-height" target="_blank">[MDN Doc]</a>
 
 ### border
-You need to set a string representing a **border value**.<br/><br/>
+You need to set a string representing a **border value**.<br/>
 Example: `1px solid #e2e8f0`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border" target="_blank">[MDN Doc]</a>
 
 ### border-top
-You need to set a string representing a **border-top** value.<br/><br/>
+You need to set a string representing a **border-top** value.<br/>
 Example: `1px solid #e2e8f0`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-top" target="_blank">[MDN Doc]</a>
 
 ### border-bottom
-You need to set a string representing a **border-bottom** value.<br/><br/>
+You need to set a string representing a **border-bottom** value.<br/>
 Example: `1px solid #e2e8f0`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom" target="_blank">[MDN Doc]</a>
 
 ### border-left
-You need to set a string representing a **border-left** value.<br/><br/>
+You need to set a string representing a **border-left** value.<br/>
 Example: `1px solid #e2e8f0`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-left" target="_blank">[MDN Doc]</a>
 
 ### border-right
-You need to set a string representing a **border-right** value.<br/><br/>
+You need to set a string representing a **border-right** value.<br/>
 Example: `1px solid #e2e8f0`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-right" target="_blank">[MDN Doc]</a>
 
 ### border-radius
-You need to set a string representing a **border-radius** value.<br/><br/>
+You need to set a string representing a **border-radius** value.<br/>
 Example: `8px`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius" target="_blank">[MDN Doc]</a>
 
 ### cursor
-You need to set a string representing a **cursor** value.<br/><br/>
+You need to set a string representing a **cursor** value.<br/>
 Example: `pointer`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/cursor" target="_blank">[MDN Doc]</a>
 
 ### display
-You need to set a boolean or string representing a **display** value.<br/><br/>
+You need to set a boolean or string representing a **display** value.<br/>
 Example: `flex`, `true`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/display" target="_blank">[MDN Doc]</a>
 
 ### transform
-You need to set a string representing a **transform** value.<br/><br/>
+You need to set a string representing a **transform** value.<br/>
 Example: `translateY(4px) scale(1.02)`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transform" target="_blank">[MDN Doc]</a>
 
 ### perspective
-You need to set a string representing a **perspective** value.<br/><br/>
+You need to set a string representing a **perspective** value.<br/>
 Example: `800px`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/perspective" target="_blank">[MDN Doc]</a>
 
 ### transition
-You need to set a string representing a **transition** value.<br/><br/>
+You need to set a string representing a **transition** value.<br/>
 Example: `all 200ms ease`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transition" target="_blank">[MDN Doc]</a>
 
 ### filter
-You need to set a string representing a **filter** value.<br/><br/>
+You need to set a string representing a **filter** value.<br/>
 Example: `blur(5px)`, `contrast(200%)`, `hue-rotate(90deg)`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/filter" target="_blank">[MDN Doc]</a>
 
 ### flex
-You need to set a string representing a **flex** value.<br/><br/>
+You need to set a string representing a **flex** value.<br/>
 Example: `1`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex" target="_blank">[MDN Doc]</a>
 
 ### background.image
-You need to set a string representing an **image url** value.<br/><br/>
+You need to set a string representing an **image url** value.<br/>
 Example: `https://example.com/image.png`
 
 ### background
-You need to set a string representing a **gradient** value.<br/><br/>
+You need to set a string representing a **gradient** value.<br/>
 Example: `linear-gradient(90deg, #000, #fff)`<br/>
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS/gradient/linear-gradient" target="_blank">[MDN Doc]</a>
 
 ### background.order
 
-You need to set a string.<br/><br/>
+You need to set a string.<br/>
 Possible values:
 <ul>
   <li><code>grad,img,col</code></li>
@@ -167,258 +167,258 @@ Possible values:
 </ul>
 
 ### background.color
-You need to set a string representing a **color** value.<br/><br/>
+You need to set a string representing a **color** value.<br/>
 Example: `#111827`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-color" target="_blank">[MDN Doc]</a>
 
 ### background.size
-You need to set a string representing a **size** value.<br/><br/>
+You need to set a string representing a **size** value.<br/>
 Example: `cover`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-size" target="_blank">[MDN Doc]</a>
 
 ### background.repeat
-You need to set a string representing a **background-repeat** value.<br/><br/>
+You need to set a string representing a **background-repeat** value.<br/>
 Example: `no-repeat`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat" target="_blank">[MDN Doc]</a>
 
 ### background.url
-You need to set a string representing an **url** value.<br/><br/>
+You need to set a string representing an **url** value.<br/>
 Example: `https://example.com/image.png`
 
 ### opacity
-You need to set a string representing an **opacity** value.<br/><br/>
+You need to set a string representing an **opacity** value.<br/>
 Example: `0.5`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/opacity" target="_blank">[MDN Doc]</a>
 
 ### box-shadow
-You need to set a string representing a **box-shadow** value.<br/><br/>
+You need to set a string representing a **box-shadow** value.<br/>
 Example: `0 2px 8px rgba(0,0,0,0.2)`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow" target="_blank">[MDN Doc]</a>
 
 ### font-size
-You need to set a string representing a **font size** value.<br/><br/>
+You need to set a string representing a **font size** value.<br/>
 Example: `16px`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size" target="_blank">[MDN Doc]</a>
 
 ### font-family
-You need to set a string representing a **font family** value.<br/><br/>
+You need to set a string representing a **font family** value.<br/>
 Example: `Inter`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-family" target="_blank">[MDN Doc]</a>
 
 ### font-weight
-You need to set a string representing a **font weight** value.<br/><br/>
+You need to set a string representing a **font weight** value.<br/>
 Example: `700`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight" target="_blank">[MDN Doc]</a>
 
 ### font-style
-You need to set a string representing a **font style** value.<br/><br/>
+You need to set a string representing a **font style** value.<br/>
 Example: `italic`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-style" target="_blank">[MDN Doc]</a>
 
 ### line-height
-You need to set a string representing a **line height** value.<br/><br/>
+You need to set a string representing a **line height** value.<br/>
 Example: `1.5`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/line-height" target="_blank">[MDN Doc]</a>
 
 ### sanitize
 
-You need to set whether the text will be sanitized.<br/><br/>
+You need to set whether the text will be sanitized.<br/>
 Possible values: `true`, `false`.
 
 ### text-align
-You need to set a string representing a **text-align** value.<br/><br/>
+You need to set a string representing a **text-align** value.<br/>
 Example: `center`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-align" target="_blank">[MDN Doc]</a>
 
 ### text-decoration
-You need to set a string representing a **text-decoration** value.<br/><br/>
+You need to set a string representing a **text-decoration** value.<br/>
 Example: `underline`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration" target="_blank">[MDN Doc]</a>
 
 ### text-decoration-style
-You need to set a string representing a **text-decoration-style** value.<br/><br/>
+You need to set a string representing a **text-decoration-style** value.<br/>
 Example: `dashed`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style" target="_blank">[MDN Doc]</a>
 
 ### color
-You need to set a string representing a **color** value.<br/><br/>
+You need to set a string representing a **color** value.<br/>
 Example: `rebeccapurple`, `#0f0f0`, `rgb(214, 122, 127)`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_colors/Applying_color\#how_to_describe_a_color" target="_blank">[MDN Doc]</a>
 
 ### no-wrap
 
-You need to set whether the text wraps at the end of a line (single line).<br/><br/>
+You need to set whether the text wraps at the end of a line (single line).<br/>
 Possible values: `true`, `false`.
 
 ### ellipsis
 
-You need to set whether the text will be cut with `...` inside an overflow hidden parent.<br/><br/>
+You need to set whether the text will be cut with `...` inside an overflow hidden parent.<br/>
 Possible values: `true`, `false`.
 
 ### text-transform
-You need to set a string representing a **text-transform** value.<br/><br/>
+You need to set a string representing a **text-transform** value.<br/>
 Example: `uppercase`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform" target="_blank">[MDN Doc]</a>
 
 ### text-shadow
-You need to set a string representing a **text-shadow** value.<br/><br/>
+You need to set a string representing a **text-shadow** value.<br/>
 Example: `0 2px 8px rgba(0,0,0,0.2)`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow" target="_blank">[MDN Doc]</a>
 
 ### letter-spacing
-You need to set a string representing a **letter-spacing** value.<br/><br/>
+You need to set a string representing a **letter-spacing** value.<br/>
 Example: `0.05em`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing" target="_blank">[MDN Doc]</a>
 
 ### word-spacing
-You need to set a string representing a **word-spacing** value.<br/><br/>
+You need to set a string representing a **word-spacing** value.<br/>
 Example: `0.1em`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing" target="_blank">[MDN Doc]</a>
 
 ### flex-direction
 
-You need to set a string representing a **flex-direction** value.<br/><br/>
+You need to set a string representing a **flex-direction** value.<br/>
 Possible values: `column` (vertical), `row` (horizontal).
 
 ### row-gap
-You need to set a string representing a **row-gap** value.<br/><br/>
+You need to set a string representing a **row-gap** value.<br/>
 Example: `16px`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/row-gap" target="_blank">[MDN Doc]</a>
 
 ### column-gap
-You need to set a string representing a **column-gap** value.<br/><br/>
+You need to set a string representing a **column-gap** value.<br/>
 Example: `16px`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/column-gap" target="_blank">[MDN Doc]</a>
 
 ### justify-content
-You need to set a string representing a **justify-content** value.<br/><br/>
+You need to set a string representing a **justify-content** value.<br/>
 Example: `space-between`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content" target="_blank">[MDN Doc]</a>
 
 ### align-items
-You need to set a string representing a **align-items** value.<br/><br/>
+You need to set a string representing a **align-items** value.<br/>
 Example: `center`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/align-items" target="_blank">[MDN Doc]</a>
 
 ### align-content
-You need to set a string representing a **align-content** value.<br/><br/>
+You need to set a string representing a **align-content** value.<br/>
 Example: `stretch`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/align-content" target="_blank">[MDN Doc]</a>
 
 ### flex-wrap
 
-You need to return whether the elements will be wrapped.<br/><br/>
+You need to return whether the elements will be wrapped.<br/>
 Possible values: `true`, `false`.
 
 ### layout-reverse
 
-You need to return whether the elements will be displayed in reverse order.<br/><br/>
+You need to return whether the elements will be displayed in reverse order.<br/>
 Possible values: `true`, `false`.
 
 ### layout-push-last
 
-You need to return whether the last element will be pushed at the end.<br/><br/>
+You need to return whether the last element will be pushed at the end.<br/>
 Possible values: `true`, `false`.
 
 ### grid-flow-direction
 
-This property is equivalent to the CSS grid-auto-flow property.<br/><br/>
+This property is equivalent to the CSS grid-auto-flow property.<br/>
 Possible values: `row`, `column`.<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow" target="_blank">[MDN Doc]</a>
 
 ### grid-columns
 
-Define the grid's columns layout using an array of strings, each representing a column's width.<br/><br/>
+Define the grid's columns layout using an array of strings, each representing a column's width.<br/>
 Example: `["1fr", "2fr", "auto"]`.<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns" target="_blank">[MDN Doc]</a>
 
 ### grid-rows
 
-Define the grid's rows layout using an array of strings, each representing a row's height.<br/><br/>
+Define the grid's rows layout using an array of strings, each representing a row's height.<br/>
 Example: `["100px", "auto", "30%"]`.<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows" target="_blank">[MDN Doc]</a>
 
 ### column-span
-Specifies how many columns an element should span across in the grid layout. This determines the element's width relative to the total number of grid columns. Set the value of the property grid-column to `span value`.<br/><br/>
+Specifies how many columns an element should span across in the grid layout. This determines the element's width relative to the total number of grid columns. Set the value of the property grid-column to `span value`.<br/>
 Example: `span 2`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column" target="_blank">[MDN Doc]</a>
 
 ### row-span
-Defines the number of rows an element will span over. This affects the element's height by extending it across multiple grid rows. Set the value of the property row-column to `span value`.<br/><br/>
+Defines the number of rows an element will span over. This affects the element's height by extending it across multiple grid rows. Set the value of the property row-column to `span value`.<br/>
 Example: `span 3`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row" target="_blank">[MDN Doc]</a>
 
 ### grid-column
-Sets the element's starting and ending positions along the grid's column axis. It determines where the element is placed horizontally within the grid. Set the value of the property grid-column to `value`. Overwrite the column span property.<br/><br/>
+Sets the element's starting and ending positions along the grid's column axis. It determines where the element is placed horizontally within the grid. Set the value of the property grid-column to `value`. Overwrite the column span property.<br/>
 Example: `1 / 3`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column" target="_blank">[MDN Doc]</a>
 
 ### grid-row
-Indicates the element's starting and ending positions along the grid's row axis. This property controls the vertical placement of the element within the grid layout. Set the value of the property row-column to `value`. Overwrite the row span property.<br/><br/>
+Indicates the element's starting and ending positions along the grid's row axis. This property controls the vertical placement of the element within the grid layout. Set the value of the property row-column to `value`. Overwrite the row span property.<br/>
 Example: `1 / 3`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row" target="_blank">[MDN Doc]</a>
 
 ### border-collapse
 
-This property is equivalent to the CSS border-collapse property.<br/><br/>
+This property is equivalent to the CSS border-collapse property.<br/>
 Possible values: `collapse`, `separate`.<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse" target="_blank">[MDN Doc]</a>
 
 ### border-spacing
 
-This property is equivalent to the CSS border-spacing property.<br/><br/>
+This property is equivalent to the CSS border-spacing property.<br/>
 Example: any spacing string (e.g. `4px`, `0.5rem`).<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-spacing" target="_blank">[MDN Doc]</a>
 
 ### table-layout
 
-This property is equivalent to the CSS table-layout property.<br/><br/>
+This property is equivalent to the CSS table-layout property.<br/>
 Possible values: `fixed`, `auto`.<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/table-layout" target="_blank">[MDN Doc]</a>
 
 ### animation-duration
 
-Duration of one loop of the animation. Should be a string including the time unit.<br/><br/>
+Duration of one loop of the animation. Should be a string including the time unit.<br/>
 Example: `1s`, `400ms`, ...<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-duration" target="_blank">[MDN Doc]</a>
 
 ### animation-timing-function
 
-Transition function of the animation. Should be a string.<br/><br/>
+Transition function of the animation. Should be a string.<br/>
 Example: `ease`, `ease-in`, ...<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function" target="_blank">[MDN Doc]</a>
 
 ### animation-delay
 
-Duration of the delay before starting the animation. Should be a string including the time unit.<br/><br/>
+Duration of the delay before starting the animation. Should be a string including the time unit.<br/>
 Example: `1s`, `400ms`, ...<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-delay" target="_blank">[MDN Doc]</a>
 
 ### animation-iteration-count
 
-Number of times the animation will loop.<br/><br/>
+Number of times the animation will loop.<br/>
 Example: `1`, `infinite`.<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-iteration-count" target="_blank">[MDN Doc]</a>
 
 ### animation-direction
 
-Direction of the animation.<br/><br/>
+Direction of the animation.<br/>
 Possible values: `normal`, `reverse`, `alternate`, `alternate-reverse`.<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-direction" target="_blank">[MDN Doc]</a>
 
 ### animation-play-state
 
-Play state of the animation.<br/><br/>
+Play state of the animation.<br/>
 Possible values: `running`, `paused`.<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-play-state" target="_blank">[MDN Doc]</a>
 
 ### animation-fill-mode
 
-Set the final state of the animation.<br/><br/>
+Set the final state of the animation.<br/>
 Possible values: `none`, `forwards`, `backwards`, `both`.<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-fill-mode" target="_blank">[MDN Doc]</a>
 
 ### keyframes
-Keyframes animation as a string.<br/><br/>
+Keyframes animation as a string.<br/>
 Example: `@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes" target="_blank">[MDN Doc]</a>
