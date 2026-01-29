@@ -219,67 +219,46 @@ Set where to navigate when this element is clicked</br></br>Example: `/about`, `
 <a href="https://docs.weweb.io/pages/navigation.html#link" target="_blank">[Link to documentation]</a>
 
 ### name
-Set the name shown in the layout tree</br></br>Example: `Header`</br></br>
-
+Set the name shown in the layout tree</br></br>Example: `Header`
 ### sectionTitle
-Set the name shown in the layout tree</br></br>Example: `Header`</br></br>
-
+Set the name shown in the layout tree</br></br>Example: `Header`
 ### id
-Set the id attribute of this element in the HTML</br></br>Example: `hero-section`</br></br>
-
+Set the id attribute of this element in the HTML</br></br>Example: `hero-section`
 ### class
-Set a custom class attribute for this element in the HTML</br></br>Example: `btn primary`</br></br>
-
+Set a custom class attribute for this element in the HTML</br></br>Example: `btn primary`
 ### attributes
-Add custom HTML attributes to this element</br></br>Example: `aria-label="Close"`</br></br>
-
+Add custom HTML attributes to this element</br></br>Example: `aria-label="Close"`
 ### watchScrollPosition
-Set whether you want the scroll position of this element to be available in the binding window</br></br>Possible values: `true`, `false`</br></br>
-
+Set whether you want the scroll position of this element to be available in the binding window</br></br>Possible values: `true`, `false`
 ### htmlTag
-Choose which HTML tag this text element should use</br></br>Possible values: `p`, `span`, `h1`, `div`</br></br>
-
+Choose which HTML tag this text element should use</br></br>Possible values: `p`, `span`, `h1`, `div`
 ### tag
-Choose which HTML tag this element should use</br></br>Possible values: `p`, `span`, `h1`, `div`</br></br>
-
+Choose which HTML tag this element should use</br></br>Possible values: `p`, `span`, `h1`, `div`
 ### top
-Set the distance from the top when using relative/absolute/fixed/sticky positioning</br></br>Example: `0`, `16px`, `10%`</br></br>
-
+Set the distance from the top when using relative/absolute/fixed/sticky positioning</br></br>Example: `0`, `16px`, `10%`
 ### right
-Set the distance from the right when using relative/absolute/fixed/sticky positioning</br></br>Example: `0`, `16px`, `10%`</br></br>
-
+Set the distance from the right when using relative/absolute/fixed/sticky positioning</br></br>Example: `0`, `16px`, `10%`
 ### bottom
-Set the distance from the bottom when using relative/absolute/fixed/sticky positioning</br></br>Example: `0`, `16px`, `10%`</br></br>
-
+Set the distance from the bottom when using relative/absolute/fixed/sticky positioning</br></br>Example: `0`, `16px`, `10%`
 ### left
-Set the distance from the left when using relative/absolute/fixed/sticky positioning</br></br>Example: `0`, `16px`, `10%`</br></br>
-
+Set the distance from the left when using relative/absolute/fixed/sticky positioning</br></br>Example: `0`, `16px`, `10%`
 ### boxShadow
-Add a shadow around the element</br></br>Example: `0 2px 8px rgba(0,0,0,0.2)`</br></br>
-
+Add a shadow around the element</br></br>Example: `0 2px 8px rgba(0,0,0,0.2)`
 ### _ww-layout_alignItems
-Set how items align on the cross axis (perpendicular to the layout direction)</br></br>Possible values: `flex-start`, `center`, `flex-end`, `stretch`</br></br>
-
+Set how items align on the cross axis (perpendicular to the layout direction)</br></br>Possible values: `flex-start`, `center`, `flex-end`, `stretch`
 ### _ww-layout_flexWrap
-Allow items to wrap onto multiple lines when there isn’t enough space</br></br>Possible values: `true`, `false`</br></br>
-
+Allow items to wrap onto multiple lines when there isn’t enough space</br></br>Possible values: `true`, `false`
 ### _ww-layout_alignContent
-Set how multiple rows/columns are spaced when items wrap</br></br>Possible values: `flex-start`, `center`, `flex-end`, `stretch`, `space-between`, `space-around`</br></br>
-
+Set how multiple rows/columns are spaced when items wrap</br></br>Possible values: `flex-start`, `center`, `flex-end`, `stretch`, `space-between`, `space-around`
 ### _ww-grid_flowDirection
-Choose whether the grid auto-places items by row or by column</br></br>Possible values: `row`, `column`</br></br>
-
+Choose whether the grid auto-places items by row or by column</br></br>Possible values: `row`, `column`
 ### _ww-grid_columns
-Define the grid’s columns</br></br>Example: `["1fr", "2fr"]`, `["200px", "1fr"]`</br></br>
-
+Define the grid’s columns</br></br>Example: `["1fr", "2fr"]`, `["200px", "1fr"]`
 ### _ww-grid_rows
-Define the grid’s rows</br></br>Example: `["auto", "1fr"]`, `["64px", "1fr"]`</br></br>
-
+Define the grid’s rows</br></br>Example: `["auto", "1fr"]`, `["64px", "1fr"]`
 ### _ww-grid_columnGap
-Set the space between each column in the grid</br></br>Example: `16px`</br></br>
-
+Set the space between each column in the grid</br></br>Example: `16px`
 ### _ww-grid_rowGap
-Set the space between each row in the grid</br></br>Example: `16px`</br></br>
-
+Set the space between each row in the grid</br></br>Example: `16px`
 ### forceRendering
-Force the element to display in the editor even when it would normally be hidden</br></br>Possible values: `true`, `false`</br></br>
+Force the element to display in the editor even when it would normally be hidden</br></br>Possible values: `true`, `false`

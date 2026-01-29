@@ -134,6 +134,11 @@ You need to set a string representing a **transition** value.<br/><br/>
 Example: `all 200ms ease`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transition" target="_blank">[MDN Doc]</a>
 
+### filter
+You need to set a string representing a **filter** value.<br/><br/>
+Example: `blur(5px)`, `contrast(200%)`, `hue-rotate(90deg)`<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/filter" target="_blank">[MDN Doc]</a>
+
 ### flex
 You need to set a string representing a **flex** value.<br/><br/>
 Example: `1`<br/>
@@ -141,7 +146,7 @@ Example: `1`<br/>
 
 ### background.image
 You need to set a string representing an **image url** value.<br/><br/>
-Example: `https://example.com/image.png`<br/>
+Example: `https://example.com/image.png`
 
 ### background
 You need to set a string representing a **gradient** value.<br/><br/>
@@ -178,7 +183,7 @@ Example: `no-repeat`<br/>
 
 ### background.url
 You need to set a string representing an **url** value.<br/><br/>
-Example: `https://example.com/image.png`<br/>
+Example: `https://example.com/image.png`
 
 ### opacity
 You need to set a string representing an **opacity** value.<br/><br/>
@@ -237,7 +242,7 @@ Example: `dashed`<br/>
 
 ### color
 You need to set a string representing a **color** value.<br/><br/>
-Example: `#111827`<br/>
+Example: `rebeccapurple`, `#0f0f0`, `rgb(214, 122, 127)`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_colors/Applying_color\#how_to_describe_a_color" target="_blank">[MDN Doc]</a>
 
 ### no-wrap
@@ -318,17 +323,20 @@ Possible values: `true`, `false`.
 ### grid-flow-direction
 
 This property is equivalent to the CSS grid-auto-flow property.<br/><br/>
-Possible values: `row`, `column`. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow" target="_blank">[MDN Doc]</a>
+Possible values: `row`, `column`.<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow" target="_blank">[MDN Doc]</a>
 
 ### grid-columns
 
 Define the grid's columns layout using an array of strings, each representing a column's width.<br/><br/>
-Example: `["1fr", "2fr", "auto"]`. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns" target="_blank">[MDN Doc]</a>
+Example: `["1fr", "2fr", "auto"]`.<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns" target="_blank">[MDN Doc]</a>
 
 ### grid-rows
 
 Define the grid's rows layout using an array of strings, each representing a row's height.<br/><br/>
-Example: `["100px", "auto", "30%"]`. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows" target="_blank">[MDN Doc]</a>
+Example: `["100px", "auto", "30%"]`.<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows" target="_blank">[MDN Doc]</a>
 
 ### column-span
 Specifies how many columns an element should span across in the grid layout. This determines the element's width relative to the total number of grid columns. Set the value of the property grid-column to `span value`.<br/><br/>
@@ -353,54 +361,64 @@ Example: `1 / 3`<br/>
 ### border-collapse
 
 This property is equivalent to the CSS border-collapse property.<br/><br/>
-Possible values: `collapse`, `separate`. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse" target="_blank">[MDN Doc]</a>
+Possible values: `collapse`, `separate`.<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse" target="_blank">[MDN Doc]</a>
 
 ### border-spacing
 
 This property is equivalent to the CSS border-spacing property.<br/><br/>
-Example: any spacing string (e.g. `4px`, `0.5rem`). <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-spacing" target="_blank">[MDN Doc]</a>
+Example: any spacing string (e.g. `4px`, `0.5rem`).<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-spacing" target="_blank">[MDN Doc]</a>
 
 ### table-layout
 
 This property is equivalent to the CSS table-layout property.<br/><br/>
-Possible values: `fixed`, `auto`. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/table-layout" target="_blank">[MDN Doc]</a>
+Possible values: `fixed`, `auto`.<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/table-layout" target="_blank">[MDN Doc]</a>
 
 ### animation-duration
 
 Duration of one loop of the animation. Should be a string including the time unit.<br/><br/>
-Example: `1s`, `400ms`, ...<br/><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-duration" target="_blank">[MDN Doc]</a>
+Example: `1s`, `400ms`, ...<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-duration" target="_blank">[MDN Doc]</a>
 
 ### animation-timing-function
 
 Transition function of the animation. Should be a string.<br/><br/>
-Example: `ease`, `ease-in`, ...<br/><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function" target="_blank">[MDN Doc]</a>
+Example: `ease`, `ease-in`, ...<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function" target="_blank">[MDN Doc]</a>
 
 ### animation-delay
 
 Duration of the delay before starting the animation. Should be a string including the time unit.<br/><br/>
-Example: `1s`, `400ms`, ...<br/><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-delay" target="_blank">[MDN Doc]</a>
+Example: `1s`, `400ms`, ...<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-delay" target="_blank">[MDN Doc]</a>
 
 ### animation-iteration-count
 
 Number of times the animation will loop.<br/><br/>
-Possible values: a number, or `infinite` to never stop the animation.<br/><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-iteration-count" target="_blank">[MDN Doc]</a>
+Example: `1`, `infinite`.<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-iteration-count" target="_blank">[MDN Doc]</a>
 
 ### animation-direction
 
 Direction of the animation.<br/><br/>
-Possible values: `normal`, `reverse`, `alternate`, `alternate-reverse`.<br/><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-direction" target="_blank">[MDN Doc]</a>
+Possible values: `normal`, `reverse`, `alternate`, `alternate-reverse`.<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-direction" target="_blank">[MDN Doc]</a>
 
 ### animation-play-state
 
 Play state of the animation.<br/><br/>
-Possible values: `running`, `paused`.<br/><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-play-state" target="_blank">[MDN Doc]</a>
+Possible values: `running`, `paused`.<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-play-state" target="_blank">[MDN Doc]</a>
 
 ### animation-fill-mode
 
 Set the final state of the animation.<br/><br/>
-Possible values: `none`, `forwards`, `backwards`, `both`.<br/><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-fill-mode" target="_blank">[MDN Doc]</a>
+Possible values: `none`, `forwards`, `backwards`, `both`.<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation-fill-mode" target="_blank">[MDN Doc]</a>
 
 ### keyframes
-Keyframes animation as a string.<br/>.<br/><br/>
+Keyframes animation as a string.<br/><br/>
 Example: `@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes" target="_blank">[MDN Doc]</a>
