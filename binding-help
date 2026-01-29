@@ -4,7 +4,7 @@ Example: `center`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container" target="_blank">[MDN Doc]</a>
 
 ### z-index
-You need to set a string representing a **z-index** value.<br/><br/>
+You need to set a string representing a **z-index** value.<br/>
 Example: `10`<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/z-index" target="_blank">[MDN Doc]</a>
 
