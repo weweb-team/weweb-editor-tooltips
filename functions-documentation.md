@@ -5,8 +5,9 @@ Return `value1` if `condition` is true, otherwise return `value2`<br/>The condit
 
 ### ifEmpty
 
-Return `value1` if not empty, otherwise return `value2` <br/><br/>
-`ifEmpty(value1, value2)`
+Return `value1` if not empty, otherwise return `value2`<br/>
+If `value3` is provided, return `value2` if `value1` is empty, otherwise return `value3`<br/><br/>
+`ifEmpty(value1, value2)` OR `ifEmpty(value1, value2, value3)`
 
 ### not
 
